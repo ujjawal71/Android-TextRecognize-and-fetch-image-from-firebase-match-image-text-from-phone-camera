@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050138958956",
+    "firebase_url": "https://textrecognize-ef184.firebaseio.com",
+    "project_id": "textrecognize-ef184",
+    "storage_bucket": "textrecognize-ef184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050138958956:android:1f2b2b07666432928d0c49",
+        "android_client_info": {
+          "package_name": "com.csecoder.textrecognize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050138958956-h0bqhhsbibqfhd5n0vm3funitrg96rc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgmmx488FCxQ7bLgUlmdzFZ9NGo8TswY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050138958956-h0bqhhsbibqfhd5n0vm3funitrg96rc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
